@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ARt</string>
+
+    <string name="author1name">Andy Wharol</string>
+    <string name="author2name">Francesco Hayez</string>
+    <string name="author3name">Salvador Dalì</string>
+
+    <string-array name="author1works_names">
+        <item>Campbell Soup Cans</item>
+        <item>Shot Marilyns</item>
+    </string-array>
+
+    <string-array name="author2works_names">
+        <item>Il Bacio</item>
+        <item>Ritratto di Alessandro Manzoni</item>
+    </string-array>
+
+    <string-array name="author3works_names">
+        <item>La persistenza della memoria</item>
+        <item>Il grande masturbatore</item>
+    </string-array>
+
+    <string-array name="author1works_descriptions">
+        <item>Descrizione de "Campbell Soup Cans"</item>
+        <item>Descrizione de "Shot Marilyns"</item>
+    </string-array>
+
+    <string-array name="author2works_descriptions">
+        <item>Descrizione de "Il Bacio"</item>
+        <item>Descrizione de "Ritratto di Alessandro Manzoni"</item>
+    </string-array>
+
+    <string-array name="author3works_descriptions">
+        <item>Descrizione de "La persistenza della memoria"</item>
+        <item>Descrizione de "Il grande masturbatore"</item>
+    </string-array>
+
+
+
+</resources>
